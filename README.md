@@ -13,9 +13,7 @@ ____
 
 ____
 
-| Modo Escuro
-| ---------------------------------
-| ![Dark](/assets/listplus_dark.gif)  
+![Dark](/assets/listplus_dark.gif)  
 ____
 
 ##  Funcionalidades
