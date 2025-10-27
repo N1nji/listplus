@@ -7,10 +7,13 @@ ____
 
 ## Preview
 
-| Modo Claro                                | Modo Escuro                     |
-| ---------------------------------         | ------------------------------- |
-| ![Light](/assets/listplus_light.gif)      | ![Dark](/assets/listplus_dark.gif) |
+| Modo Claro                                
+| ---------------------------------         
+| ![Light](/assets/listplus_light.gif)  
 
+| Modo Escuro
+| ---------------------------------
+| ![Dark](/assets/listplus_dark.gif)  
 ____
 
 ##  Funcionalidades
