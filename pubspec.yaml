@@ -21,21 +21,19 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: ^0.14.1
-
-
   flutter_lints: ^5.0.0
 
 
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/list.png"
+  image_path: "assets/listplus.png"
+
 
 flutter:
   uses-material-design: true
-
   assets:
-    - assets/list.png
+    - assets/listplus.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

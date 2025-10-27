@@ -7,9 +7,9 @@ ____
 
 ## Preview
 
-| Modo Claro                        | Modo Escuro                     |
-| --------------------------------- | ------------------------------- |
-| ![Light](./assets/light_mode.gif) | ![Dark](./assets/dark_mode.gif) |
+| Modo Claro                                | Modo Escuro                     |
+| ---------------------------------         | ------------------------------- |
+| ![Light](/assets/listplus_light.gif)      | ![Dark](/assets/listplus_dark.gif) |
 
 ____
 
